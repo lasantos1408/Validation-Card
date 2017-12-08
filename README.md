@@ -1,2 +1,1 @@
-
-Example development of how to validate a credit card number, in the ValidationCard form in the back code the algorithm is done and in the view, there is a textBox where the card number is entered to validate.
+File rar project developed in asp.net with c #, download and run in visual stidio 2017. Development of example of how to validate a credit card number, in the ValidationCard form in the back code is done the algorithm and in the view, you will find a textBox where you enter the card number to validate.
